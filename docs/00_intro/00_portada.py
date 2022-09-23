@@ -1,0 +1,7 @@
+c1, c2 = st.columns([7,3])
+st.caption("Charla:")
+st.markdown("# Streamlit en la industria")
+st.markdown("## Sebastián Flores, 25 Agosto 2022")
+st.markdown("### Meetup Python Chile")
+st.write("Repo: https://github.com/sebastiandres/talk_20220825_pychile_meetup")
+st.image("images/dream.png", width=400)
